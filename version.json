@@ -1,0 +1,24 @@
+[
+  {
+    "android": [
+      {
+        "version": "3.3.0"
+      }
+    ],
+    "windows": [
+      {
+        "version": "3.3.0"
+      }
+    ],
+    "linux": [
+      {
+        "version": "3.3.0"
+      }
+    ],
+    "mac": [
+      {
+        "version": "3.3.0"
+      }
+    ]
+  }
+]
