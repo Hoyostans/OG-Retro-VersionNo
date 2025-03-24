@@ -2,22 +2,22 @@
   {
     "android": [
       {
-        "version": "3.6.0"
+        "version": "3.7.0"
       }
     ],
     "windows": [
       {
-        "version": "3.6.0"
+        "version": "3.7.0"
       }
     ],
     "linux": [
       {
-        "version": "3.6.0"
+        "version": "3.7.0"
       }
     ],
     "mac": [
       {
-        "version": "3.6.0"
+        "version": "3.7.0"
       }
     ]
   }
