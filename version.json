@@ -2,31 +2,31 @@
   {
     "universal": [
       {
-        "version": "3.8.0",
+        "version": "3.8.1",
         "message" : ""
       }
     ],
     "android": [
       {
-        "version": "3.8.0",
+        "version": "3.8.1",
         "message" : ""
       }
     ],
     "windows": [
       {
-        "version": "3.8.0",
+        "version": "3.8.1",
         "message" : ""
       }
     ],
     "linux": [
       {
-        "version": "3.8.0",
+        "version": "3.8.1",
         "message" : ""
       }
     ],
     "mac": [
       {
-        "version": "3.8.0",
+        "version": "3.8.1",
         "message" : ""
       }
     ]
